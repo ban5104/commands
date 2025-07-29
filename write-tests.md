@@ -1,0 +1,1 @@
+write tests based on expected input/output pairs. I'm doing test-driven development.
